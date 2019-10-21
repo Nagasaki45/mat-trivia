@@ -13,15 +13,15 @@ ipykernel==5.1.0          # via notebook
 ipython-genutils==0.2.0   # via nbformat, notebook, traitlets
 ipython==7.3.0            # via ipykernel
 jedi==0.13.2              # via ipython
-jinja2==2.10              # via nbconvert, notebook
+jinja2==2.10.3
 jsonschema==2.6.0         # via nbformat
-jupyter-client==5.2.4     # via ipykernel, notebook
-jupyter-core==4.4.0       # via jupyter-client, nbconvert, nbformat, notebook
+jupyter-client==5.3.4     # via ipykernel, notebook
+jupyter-core==4.6.0       # via jupyter-client, nbconvert, nbformat, notebook
 markupsafe==1.1.0         # via jinja2
 mistune==0.8.4            # via nbconvert
 nbconvert==5.4.1          # via notebook
 nbformat==4.4.0           # via nbconvert, notebook
-notebook==5.7.4
+notebook==6.0.1
 numpy==1.16.1             # via pandas
 pandas==0.24.1
 pandocfilters==1.4.2      # via nbconvert
